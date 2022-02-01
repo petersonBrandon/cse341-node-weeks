@@ -1,0 +1,17 @@
+<%- include('includes/head.ejs') %>
+</head>
+
+<body>   
+    <%- include('includes/navigation.ejs') %>
+
+    <% if (names.length > 0) { %>
+        <ul>
+            <% for (let name of names) { %>
+                <li><%= name %></li>
+            <% } %>
+        </ul>
+    <% } else { %>
+        <h1>No Names Currently</h1>
+    <% } %>
+
+<%- include('includes/end.ejs') %>
