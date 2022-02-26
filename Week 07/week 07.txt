@@ -1,0 +1,27 @@
+1. Copy and paste the URL for your web application (e.g., Heroku): https://cse341-nodeshop.herokuapp.com/
+
+2. Copy and paste the URL for your source code repository (e.g., GitHub): https://github.com/petersonBrandon/cse341-node
+
+3. Briefly list and describe the elements of the application that are functioning. 
+	Everything is functioning besides the emailing setup.
+
+4. Briefly describe any pieces of the assignment that are not yet working correctly.
+	See above.
+
+5. Briefly describe the "coolest" thing you learned while completing this assignment.
+	Learning the basics of backend code is really cool.
+
+6. If you could change this assignment to be more effective or helpful, what would you change?
+	Nothing that I would change.
+
+7. Please select the category you feel best describes your assignment:
+   1 - Some attempt was made
+   2 - Developing, but significantly deficient
+   3 - Slightly deficient, but still mostly adequate
+   4 - Meets requirements
+   5 - Shows creativity and excels above and beyond requirements
+
+4
+
+8. Provide a brief justification (1-2 sentences) for selecting that category.
+	It meets the requirements of the assignment.
